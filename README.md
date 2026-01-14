@@ -1,7 +1,7 @@
 # Zanzibar Clove Grading with Computer Vision
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-Hugging%20Face-yellow)](https://huggingface.co/datasets/PatrickIIT/zanzibar_clove)
+[![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-Hugging%20Face-yellow)](https://huggingface.co/datasets/PatrickIITMZ/zanzibar_cloves)
 
 This repository contains the official code and models for the Master's thesis:  
 **"Decomposed Multi-Task Vision for Auditable Agricultural Grading: Rule-Based Clove Classification in Zanzibar"**  
