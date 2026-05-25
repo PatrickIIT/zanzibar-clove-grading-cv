@@ -1,0 +1,376 @@
+========================================================
+ZANZIBAR CLOVE KNOWLEDGE BASE — RAG PLAYBOOK v1.0
+Source: ZSTC Official Guidelines, Agronomic Research, Field Data
+========================================================
+
+================================================================
+SECTION 1: ZSTC GRADING STANDARDS
+================================================================
+
+--- 1.1 GRADE 1 (PREMIUM) ---
+Grade 1 is the highest quality whole clove for export.
+- Color: Attractive saffron / golden color (well-matured)
+- Moisture Content: Maximum 14%
+- Shape: Uniform, with heads intact, derived from well-matured buds
+- Mpeta (Khoker/Grade 4 cloves): Must NOT exceed 3%
+- Foreign Matter (stems, seeds, matende, debris): Must NOT exceed 5%
+- Free from mold
+- ZSTC 2023 Price: TZS 15,000 per kg
+
+--- 1.2 GRADE 2 ---
+Grade 2 is similar to Grade 1 but with diminished visual appeal.
+- Color: Slightly blackish or faded (not as attractive as Grade 1)
+- Moisture Content: Maximum 14%
+- Mpeta: Must NOT exceed 7%
+- Foreign Matter (stems, matende, other debris): Must NOT exceed 5%
+- ZSTC 2023 Price: TZS 13,500 per kg
+- Revenue loss vs Grade 1: 10% (TZS 1,500/kg)
+
+--- 1.3 GRADE 3 ---
+Grade 3 cloves have more significantly faded color.
+- Color: More faded than Grade 1 and Grade 2
+- Dryness: Must pass a brittleness/break test (snap test)
+- Mpeta: Must NOT exceed 20%
+- Foreign Matter (leaves, stems, matende): Must NOT exceed 5%
+- Characteristic: Large quantity of headless cloves present
+- ZSTC 2023 Price: TZS 12,500 per kg
+- Revenue loss vs Grade 1: 16.7% (TZS 2,500/kg)
+
+--- 1.4 GRADE 4 — MPETA (KHOKER CLOVES) ---
+Grade 4 consists primarily of Mpeta, locally known as Khoker cloves.
+- These are fermented, poorly dried, or otherwise defective cloves
+- Mpeta content: Greater than 20%
+- Badli dried cloves (pale brown, fermented during drying) are classified here
+- ZSTC 2023 Price: TZS 7,000 per kg
+- Revenue loss vs Grade 1: 53.3% (TZS 8,000/kg)
+
+--- 1.5 GRADING QUICK-REFERENCE TABLE ---
+Parameter        | Grade 1   | Grade 2        | Grade 3        | Grade 4
+-----------------+-----------+----------------+----------------+------------------
+Color            | Golden    | Faded/Blackish | More Faded     | Primarily Mpeta
+Moisture (max)   | 14%       | 14%            | Brittleness test| N/A
+Foreign Matter   | ≤5%       | ≤5%            | ≤5%            | N/A
+Mpeta Content    | ≤3%       | ≤7%            | ≤20%           | >20%
+Price (TZS/kg)   | 15,000    | 13,500         | 12,500         | 7,000
+
+--- 1.6 ECONOMIC IMPACT OF MISGRADING ---
+Misclassifying Grade 1 as Grade 2 = 10% revenue loss per batch.
+Misclassifying Grade 3 as Grade 4 = 44% revenue loss per batch.
+Misclassifying Grade 1 as Grade 4 = 53.3% revenue loss per batch.
+Accurate grading is therefore critical to farmer income. ZSTC uses a bulk
+rule-based approach (not single-clove analysis) when buying from farmers.
+
+--- 1.7 WHAT IS MPETA (KHOKER)? ---
+Mpeta is the local Swahili/Zanzibar term for what international trade calls
+"khoker" cloves. These are cloves that are:
+- Poorly dried, causing fermentation
+- Pale brown or discolored (not golden or dark brown)
+- Often soft rather than brittle
+- Produced when drying is rushed or done during rain
+The percentage of Mpeta in a batch is the single most decisive grading factor.
+
+================================================================
+SECTION 2: CLOVE AGRONOMY — CULTIVATION GUIDE
+================================================================
+
+--- 2.1 BOTANICAL IDENTITY ---
+Scientific Name: Syzygium aromaticum
+Family: Myrtaceae
+Type: Evergreen tree, aromatic dried flower bud
+Native to: Indonesia and India; widely grown in Zanzibar, Pemba, Madagascar
+
+--- 2.2 CLIMATE REQUIREMENTS ---
+- Rainfall: 150 to 250 cm per year, well distributed
+- Temperature: Warm humid tropical
+- Altitude: Sea level up to 800–900 meters
+- Shade: Clove plants prefer partial shade, especially when young
+
+--- 2.3 SOIL REQUIREMENTS ---
+- Best soil: Rich loamy soils with good drainage
+- Also grows in: Heavier red soils (with drainage)
+- Critical requirement: Good drainage — waterlogging causes root rot and
+  promotes Sudden Death disease
+- Soil in Zanzibar and Pemba is well-suited for clove cultivation
+
+--- 2.4 PROPAGATION ---
+- Main method: By seed (commercially preferred)
+- Seeds: Collected from fully developed fruits of productive mother trees
+- Pre-sowing: Soak seeds before sowing; sow immediately after harvest
+- Germination: 10 to 15 days; seedlings are ready for nursery in ~45 days
+
+--- 2.5 NURSERY BED PREPARATION ---
+- Bed dimensions: 15–20 cm height, 1 m width, convenient length
+- Top layer: 5–8 cm of sand
+- Seed spacing: 2 cm apart
+- Shade: Provide partial shade to protect from direct sunlight
+- Polybag method: Use 30x15 cm polybags filled with sand:soil:organic
+  matter (cow dung) in ratio 3:3:1
+
+--- 2.6 PLANTING IN THE FIELD ---
+- Best planting time: Onset of South-West monsoon (June–July)
+  In low-lying areas: Towards end of monsoons
+- Pit size: 75 cm × 75 cm × 75 cm
+- Spacing: 6 to 7 meters between trees
+  (Intercrop spacing: based on the main/major crop spacing)
+- Pit preparation: Partially fill with cattle manure, compost, or green
+  leaves, then cover with topsoil before planting
+- Intercropping: Cloves grow well mixed with coconut, coffee, areca nut
+
+--- 2.7 FERTILIZERS AND MANURE ---
+Young trees (annual):
+- Organic: 50–60 kg compost/manure + bone meal or fish meal per tree/year
+- Apply in May–June (onset of rains), in trenches around the tree
+- Inorganic: 20g N (430g urea) + 18g P2O5 (110g superphosphate) +
+  50g K2O (80g Muriate of potash) per tree per year
+
+Mature trees (15+ years):
+- 300g N (600g urea) + 250g P2O5 (1,560g superphosphate) +
+  750g K2O (1,250g Muriate of potash) per tree per year
+- Apply in 2 equal split doses: May–June and September–October
+- Trench location: 1 to 1.5 meters from the base of the tree
+- Always mulch the plant basin and keep it weed-free
+
+--- 2.8 WATER MANAGEMENT ---
+- Watering is essential for the first 3–4 years
+- Pot/drip watering recommended during establishment
+- Adult trees can survive drought but water them for better yield/quality
+- Extreme care needed to maintain minimum soil moisture in dry months
+- NOTE: Waterlogging is dangerous — it promotes root rot and Sudden Death
+
+--- 2.9 TRAINING AND PRUNING (COPPICING) ---
+- Coppicing: Cutting back tree height for manageable commercial plantation
+- Timing: June–July when tree is 2–3 years old
+- Cut to: ~15 cm from the stump
+- Result: 2–3 side shoots form; tree becomes a low bush ~2 m high
+  within 4 years; suitable for regular harvesting
+- Regular peeling operations begin from 4th–5th year
+- Coppicing is typically done in alternate years
+
+--- 2.10 WEED CONTROL ---
+- Manual weeding by removing/cutting overcrowded branches
+- Apply 1% Bordeaux mixture to prevent dieback
+
+--- 2.11 YIELD EXPECTATIONS (Tanzania/Zanzibar context) ---
+- Tree age 3–5 years: 10–20 kg dried cloves per tree per year
+- Tree age 8–10 years: 40–80 kg per year
+- Tree age 15+ years: 100–130 kg per year
+- Full bearing stage: reached after ~15 years
+- Flowering begins: From 4th year under good conditions
+- Harvest seasons: April–May and August–October (two seasons/year)
+
+================================================================
+SECTION 3: HARVESTING
+================================================================
+
+--- 3.1 WHEN TO HARVEST ---
+- Harvest when buds turn from green/olive to yellow-pink (before petals open)
+- Buds at correct stage: Less than 2 cm long
+- Opened flowers have NO commercial value as a spice
+- Flowering season: September–October (plains); December–January (high altitude)
+
+--- 3.2 FIRST COMMERCIAL HARVEST ---
+- First harvest: When tree is 6–8 years old
+- Full production: After 15 years
+
+--- 3.3 HOW TO HARVEST ---
+- Hand-pick clusters of flower buds from branches
+- Use step ladders; DO NOT damage branches (damages future crops)
+- Detach buds from stalks: hold cluster in one hand, press against palm of
+  other hand, and slowly twist so buds fall off
+- Keep hands and workspace very clean to avoid contamination
+
+================================================================
+SECTION 4: POST-HARVEST HANDLING AND DRYING
+================================================================
+
+--- 4.1 PRE-TREATMENT ---
+- Separate buds from stalks immediately after harvest
+- Stems and buds are dried separately (stems can be used for oil distillation)
+- Maintain cleanliness throughout to prevent contamination
+
+--- 4.2 DRYING PROCESS (CRITICAL FOR GRADING) ---
+- Spread buds on clean mats in the sun immediately; DO NOT delay (risk of fermentation)
+- Rake and turn frequently for even drying and even brown color
+- Color progression: pale russet → golden brown → dark brown (fully dried)
+- Duration: 4–5 days
+- Do NOT speed up drying — cloves will become dry, brittle, and withered
+  rather than plump (reducing quality to Grade 3 or Grade 4)
+- Final target moisture content: 8–10% (field standard)
+- ZSTC buying standard: 14% maximum moisture
+
+CRITICAL NOTE: Cloves must be dried quickly after harvest. Any delay causes fermentation,
+producing Mpeta (Khoker/Grade 4) — the most financially damaging outcome.
+
+--- 4.3 DRYING TEST ---
+- Brittleness/Snap test: Fully dried cloves snap (break) easily
+- If cloves bend rather than snap: not yet dry enough
+- Well dried: 1 kg of dried cloves = approximately 3 kg of fresh cloves
+- 11,000 to 15,000 dried buds = 1 kg of product
+
+--- 4.4 RAINY SEASON DRYING ---
+- During rainy season: Use mechanical dryers (e.g., tray dryer)
+- Sun drying during rain leads to fungal growth, fermentation, and
+  downgrading to Grade 3 or Mpeta (Grade 4)
+- ZSTC grades heavily penalize rain-damaged, pale, and fermented cloves
+
+--- 4.5 WINNOWING ---
+- After drying: Winnow using a traditional basket or mechanical blower
+- Purpose: Remove dust, foreign matter, stems, and debris
+- This step directly affects the "foreign matter ≤5%" grading criterion
+
+--- 4.6 STORAGE ---
+- Store in moisture-proof containers away from direct sunlight
+- Ensure cloves are FULLY dry before storing — any moisture causes rot
+- Storage room: clean, dry, cool, and pest-free
+- Mosquito netting on windows to prevent insect entry
+- Do NOT store near strong-smelling items (detergents, paints, other foods)
+  — these contaminate clove aroma and flavor
+- If cloves absorb moisture in storage: re-dry to 10% moisture before sale
+- Inspect stored cloves regularly for signs of spoilage or moisture
+
+--- 4.7 PACKAGING ---
+- Package in sealed polythene bags of various sizes per market demand
+- Seal bags to prevent moisture ingress (use sealing machines)
+- Apply labels with: product name, manufacturer details, date of manufacture,
+  expiry date, weight, and any other required country-specific information
+
+================================================================
+SECTION 5: DISEASE MANAGEMENT
+================================================================
+
+--- 5.1 CLOVE SUDDEN DEATH DISEASE (Ugonjwa wa Kifo cha Ghafla) ---
+THREAT LEVEL: Critical — most existential disease in Zanzibar/Pemba
+
+Causative Agent: Valsa eugeniae (also called Cytospora eugeniae)
+Type: Fungal disease (ugonjwa wa fangasi)
+
+Symptoms (Dalili):
+1. Leaf fall / defoliation (majani ya karafuu kupukutika)
+2. Wilting leaves remaining on tree turn rust/brownish color
+3. Root rot (kuoza kwa mizizi)
+4. Inner stem tissue turns yellow under outer bark
+5. Yellowing of leaves due to loss of chlorophyll
+
+How it spreads:
+- Primarily by rainwater (carries spores from roots of infected tree to neighboring trees)
+- Begins in rainy season but can persist into dry season
+- Waterlogged soil accelerates root rot and spread
+
+Why trees die:
+- Pathogen causes root rot → tree cannot transport enough water → death
+
+Control / Treatment:
+- Spray COPPER OXY CHLORIDE every 14 days, especially during heavy rain season
+- Early and consistent application prevents visible disease symptoms
+
+Scale of impact in Zanzibar (2024–2025):
+- Over 500,000 clove trees in Unguja North affected
+- Significant loss to capital stock; trees take 5–7 years to replace
+
+--- 5.2 CLOVE DIEBACK ---
+Control:
+- Apply 1% Bordeaux mixture to affected areas
+- Remove/prune overcrowded or diseased branches to prevent spread
+
+--- 5.3 CLOVE LEAF SPOT (Ugonjwa wa Madoa Jani) ---
+Causative Agent: Colletotrichum spp. or Gloeosporium spp.
+Type: Fungal disease
+
+Symptoms:
+- Black spots on clove leaves (madoa meusi kwenye majani)
+- Leaf damage reduces overall tree health and yield
+
+Control:
+- Apply Prophylactic + Bordeaux mixture combined in equal 50/50 ratio
+- Available at agrochemical shops (Agrovet) or consult your local agricultural extension officer
+
+--- 5.4 CLOVE STEM BORER (Dumuzi / Kipekecha Shuna) ---
+Type: Insect pest
+
+How it damages:
+- Attacks the mature lower stem of the tree
+- Lays eggs; larvae bore through outer bark into the core stem
+- Reduces productivity and can kill trees if untreated long-term
+
+Control:
+- Keep farm clean — remove weeds, rotting logs (breeding grounds)
+- Spray insecticides: Fenthion or Cypermethrin
+- For active borer holes: apply 2–4 ml of kerosene/paraffin into the hole to kill the larva
+
+--- 5.5 SCALE INSECTS (Mdudu Gamba / Insects Scale) ---
+Type: Insect pest
+
+How it damages:
+- Lives under leaves or on young stems
+- Sucks plant sap → leaves curl, turn yellow, and drop
+- Stunted growth of young leaves
+- Produces black sooty mold that blocks photosynthesis
+
+Control:
+- Apply insecticides containing: Dimethoate, Acephate, Bifenthrin, Malathion,
+  Permethrin, Imidacloprid, or Thiamethoxam
+- Avoid overcrowding trees
+- Prune to open up dense canopy that favors scale infestation
+
+================================================================
+SECTION 6: MARKET AND ECONOMIC CONTEXT (ZANZIBAR)
+================================================================
+
+--- 6.1 ZSTC ROLE ---
+- ZSTC (Zanzibar State Trading Corporation) is the government entity
+  that buys cloves from all farmers and exports them abroad
+- ZSTC holds a legal monopsony: farmers are required to sell to ZSTC
+- ZSTC sets the farmgate price and manages all exports
+
+--- 6.2 ZSTC 2023 OFFICIAL BUYING PRICES ---
+Grade 1: TZS 15,000/kg
+Grade 2: TZS 13,500/kg (-10% vs Grade 1)
+Grade 3: TZS 12,500/kg (-16.7% vs Grade 1)
+Grade 4 (Mpeta): TZS 7,000/kg (-53.3% vs Grade 1)
+
+--- 6.3 INDUSTRY CHALLENGES (2024–2025) ---
+1. Sudden Death disease destroyed 500,000+ trees in Unguja North
+2. Erratic rainfall (climate change) caused premature flower drop and
+   poor drying conditions, downgrading cloves to Grade 3/Mpeta
+3. Aging tree stock (many trees planted in 1960s–70s) reducing yield
+4. Export volume fell 69% to 1,200 tonnes (from 3,900 tonnes prior year)
+5. Export value fell 76% to $6.3 million (from $28.8 million prior year)
+6. Global market: Madagascar had 50–70% production shortfall, meaning
+   genuine global demand exists — Zanzibar's problem is supply-side
+
+--- 6.4 GLOBAL CONTEXT ---
+- Indonesia: Largest producer (~70% of global supply) but consumes
+  85–90% domestically (Kretek cigarettes). Imports from East Africa.
+- Madagascar: Largest exporter; suffered 50–70% crop loss in 2024–25
+- Zanzibar + Pemba: Historically significant exporters
+- Global prices for premium cloves remain high ($6.8–$8.4/kg) —
+  well above ZSTC's implied unit value of $5.25/kg in 2025, suggesting
+  quality or structural pricing issues
+
+================================================================
+SECTION 7: KEY SWAHILI TERMS GLOSSARY
+================================================================
+
+Karafuu         = Cloves (Syzygium aromaticum)
+Mpeta           = Khoker cloves (Grade 4; poorly dried, fermented)
+Matende         = Stems of clove buds (foreign matter in grading)
+Kifo cha Ghafla = Sudden Death disease
+Fangasi         = Fungus / fungal
+Mdudu           = Insect / pest
+Dumuzi          = Stem borer (clove stem borer)
+Ugonjwa         = Disease
+Dalili          = Symptoms
+Kiuatilifu      = Fungicide / pesticide
+Mvua            = Rain
+Kiangazi        = Dry season
+Chanikiwiti     = Chlorophyll
+Mizizi          = Roots
+Shamba          = Farm / field
+Bwana Shamba    = Agricultural extension officer
+Mkulima         = Farmer
+Mavuno          = Harvest / yield
+Uzalishaji      = Production
+Agrovet         = Agrochemical shop
+========================================================
+END OF CLOVE KNOWLEDGE BASE v1.0
+========================================================
