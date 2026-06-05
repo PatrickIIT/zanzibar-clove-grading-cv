@@ -1,0 +1,82 @@
+name: ubora_ai
+description: "Ubora AI - Smart Agricultural Quality Grading System"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  flutter_localizations:
+    sdk: flutter
+
+  # Camera & Image Processing
+  camera: ^0.11.0+2
+  image_picker: ^1.1.0
+  image: ^4.5.3
+  
+  onnxruntime: ^1.4.1
+
+  http: ^1.2.0
+
+  # ML & TFLite
+  tflite_flutter: ^0.12.0
+  # google_ml_kit: ^0.16.0
+  # tflite: ^1.1.2
+
+  # UI Components
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1
+  flutter_svg: ^2.0.10+1
+  flutter_markdown: ^0.7.4
+  
+  # Storage & Database
+  path_provider: ^2.1.4
+  sqflite: ^2.3.3+1
+  shared_preferences: ^2.2.3
+  
+  # Utilities
+  permission_handler: ^11.3.1
+  intl: 0.20.2
+  provider: ^6.1.2
+  uuid: ^4.4.0
+  async: ^2.11.0  # For async operations
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: "^0.13.1"
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icons/ubora_logo.png"
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/best_int8.tflite
+    # - assets/batch_clove_model.onnx
+    - assets/clove_grader_int8.tflite
+  #   - assets/labels.txt
+  #   - assets/icons/
+    
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: fonts/Poppins-Regular.ttf
+        - asset: fonts/Poppins-Medium.ttf
+          weight: 500
+        - asset: fonts/Poppins-SemiBold.ttf
+          weight: 600
+        - asset: fonts/Poppins-Bold.ttf
+          weight: 700
+
+dependency_overrides:
+  win32: ^5.5.4
